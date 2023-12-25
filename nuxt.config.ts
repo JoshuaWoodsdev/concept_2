@@ -7,4 +7,7 @@ export default {
     "tachyons/css/tachyons.min.css",
   ],
   // other configurations...
+  plugins:[
+    '~/plugins/userbase.js',
+  ],
 };
