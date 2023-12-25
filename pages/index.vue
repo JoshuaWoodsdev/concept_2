@@ -1,22 +1,39 @@
 <template>
-    <article>
-        <header class="bg-gold sans-serif">
-          <div class="mw9 center pa4 pt5-ns ph7-l">
-            <time class="f6 mb2 dib ttu tracked"><small>27 July, 2015</small></time>
-            <h3 class="f2 f1-m f-headline-l measure-narrow lh-title mv0">
-              <span class="bg-black-90 lh-copy white pa1 tracked-tight">
-                Too many tools and frameworks
-              </span>
-            </h3>
-            <h4 class="f3 fw1 georgia i">The definitive guide to the javascript tooling landscape in 2015.</h4>
-            <h5 class="f6 ttu tracked black-80">By Adam Morse</h5>
-          </div>
-        </header>
-        </article>
-  </template>
+  
+  
+<div class="">
+  <article class="mw5 center bg-white br3 pa3 pa4-ns mv3 ba b--black-10">
+  <div class="tc">
+    <img src="http://tachyons.io/img/avatar_1.jpg" class="br-100 h4 w4 dib ba b--black-05 pa2" title="Photo of a kitty staring at you">
+    <h1 class="f3 mb2">Mimi W.</h1>
+    <h2 class="f5 fw4 gray mt0">CCO (Chief Cat Officer)</h2>
+  </div>
+</article>
+<article class="mw5 center bg-white br3 pa3 pa4-ns mv3 ba b--black-10">
+  <div class="tc">
+    <img src="http://tachyons.io/img/avatar_1.jpg" class="br-100 h4 w4 dib ba b--black-05 pa2" title="Photo of a kitty staring at you">
+    <h1 class="f3 mb2">Mimi W.</h1>
+    <h2 class="f5 fw4 gray mt0">CCO (Chief Cat Officer)</h2>
+  </div>
+</article>
+
+<article class="mw5 center bg-white br3 pa3 pa4-ns mv3 ba b--black-10">
+  <div class="tc">
+    <img src="http://tachyons.io/img/avatar_1.jpg" class="br-100 h4 w4 dib ba b--black-05 pa2" title="Photo of a kitty staring at you">
+    <h1 class="f3 mb2">Mimi W.</h1>
+    <h2 class="f5 fw4 gray mt0">CCO (Chief Cat Officer)</h2>
+  </div>
+</article>
+
+<article class="mw5 center bg-white br3 pa3 pa4-ns mv3 ba b--black-10">
+  <div class="tc">
+    <img src="http://tachyons.io/img/avatar_1.jpg" class="br-100 h4 w4 dib ba b--black-05 pa2" title="Photo of a kitty staring at you">
+    <h1 class="f3 mb2">Mimi W.</h1>
+    <h2 class="f5 fw4 gray mt0">CCO (Chief Cat Officer)</h2>
+  </div>
+</article>
+</div>
+</template>
 
 
-  <style>
-  @import '@/assets/styles.css';
-</style>
 
