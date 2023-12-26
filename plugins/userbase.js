@@ -6,3 +6,7 @@ import { defineNuxtPlugin } from 'nuxt-composition-api'; // Adjust the import ba
 export default defineNuxtPlugin((context, inject) => {
   inject('userbase', Userbase);
 });
+
+
+Userbase.init({ appId: 'YOUR_APP_ID' });
+
