@@ -1,7 +1,6 @@
 <template>
-  <div>
-   <h1>Welcome to the homepage trying to fixx</h1>
-  </div>
+  <h1>NavComponent</h1>
+  <h2>Second Component</h2>
   <NuxtPage />
 </template>
 
